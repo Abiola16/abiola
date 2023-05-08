@@ -568,7 +568,7 @@ img {
   }
 
   .nav__logo {
-    font-size: 5px;
+    font-size:var(--normal-font-size);
   }
 
   .offer__data {
